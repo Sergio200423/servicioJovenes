@@ -78,7 +78,7 @@
         });
 
         function generarNumeroAleatorio(){
-            return Math.random() * 20
+            return Math.random() * 19
         }
 
         function EnviarVersiculoAleatorio(){
